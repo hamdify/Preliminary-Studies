@@ -1,0 +1,41 @@
+.text-dark {
+    color:rgb(46, 42, 56); 
+}
+
+.text-small {
+    font-size: 1em;
+}
+
+.text-medium {
+    font-size: 1.5em;
+}
+
+.text-large {
+    font-size: 2em;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+ul,ol {
+    font-size: 1em;
+    list-style-position: inside ;
+}
+
+.text-center {
+    text-align: center;
+}
+
+header {
+    list-style-position:inside ;
+    text-align: center;
+    color: rosybrown ;
+}
+
+
+aside {
+    list-style-position:inside ;
+    text-align: center;
+    color: darkgray;
+}
